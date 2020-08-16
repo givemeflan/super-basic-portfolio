@@ -2,13 +2,22 @@
 
 
 #header-container {
-    background-color: pink;
+    background-color: orange;
+    width: 100%;
 }
+
 
 #flan-logo {
     float: left;
+    background-color: blue;
 }
 
 nav {
     float: right;
+    margin-right: 40px;
+    background-color: red;
+    display: inline-block;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 10px;
 }
