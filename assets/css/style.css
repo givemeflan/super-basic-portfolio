@@ -1,0 +1,14 @@
+/* CSS for index.html */
+
+
+#header-container {
+    background-color: pink;
+}
+
+#flan-logo {
+    float: left;
+}
+
+nav {
+    float: right;
+}
