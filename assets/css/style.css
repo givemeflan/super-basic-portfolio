@@ -1,20 +1,36 @@
 /* CSS for index.html */
 
 
-#header-container {
-    background-color: orange;
+/* Logo & Navbar Area */
+#masthead {
+    /* background: orange; */
     width: 100%;
+    border-bottom: 2px solid pink;
+    overflow: auto;
+    margin-top: 50px;
+    background-color: orange;
+}
+
+#header-container {
+    width: 90%;
+    clear: both;
+    margin: 0 auto;
 }
 
 
 #flan-logo {
     float: left;
     background-color: blue;
+    font-size: 0px;
+    text-decoration: none;
 }
 
 nav {
     float: right;
     margin-right: 40px;
+}
+
+nav a {
     background-color: red;
     display: inline-block;
     text-decoration: none;
