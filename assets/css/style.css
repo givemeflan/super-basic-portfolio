@@ -3,11 +3,10 @@
 
 /* Logo & Navbar Area */
 #masthead {
-    /* background: orange; */
     width: 100%;
     border-bottom: 2px solid pink;
     overflow: auto;
-    margin-top: 50px;
+    margin-top: 10px;
     background-color: orange;
 }
 
@@ -17,11 +16,10 @@
     margin: 0 auto;
 }
 
-
 #flan-logo {
     float: left;
     background-color: blue;
-    font-size: 0px;
+    font-size: 50px;
     text-decoration: none;
 }
 
@@ -36,4 +34,18 @@ nav a {
     text-decoration: none;
     font-size: 20px;
     padding: 10px;
+}
+
+
+/* CSS for Homepage Container & Section */
+#homepage-container {
+    background-color: blue;
+}
+
+.homepage-section {
+    max-width: 900px;
+    width: 100%;
+    background-color: red;
+    margin: 0 auto;
+
 }
