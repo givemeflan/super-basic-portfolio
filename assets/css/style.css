@@ -40,12 +40,31 @@ nav a {
 /* CSS for Homepage Container & Section */
 #homepage-container {
     background-color: blue;
+    /* padding-top: 100px; */
 }
 
 .homepage-section {
-    max-width: 900px;
+    max-width: 700px;
     width: 100%;
     background-color: red;
     margin: 0 auto;
+    margin-top: 50px;
+    padding: 30px;
+}
 
+
+/* CSS for Footer Section */
+
+footer {
+    background-color: pink;
+    width: 100%;
+
+}
+
+.footer-container {
+    /* width: 100%;
+    background-color: orange; */
+    font-size: 20px;
+    text-align: center;
+    padding: 20px 0;
 }
