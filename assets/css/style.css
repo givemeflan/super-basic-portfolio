@@ -1,5 +1,9 @@
 /* CSS for index.html */
-
+body {
+    margin: 0;
+    padding: 0;
+    position: relative;
+}
 
 /* Logo & Navbar Area */
 #masthead {
@@ -40,7 +44,8 @@ nav a {
 /* CSS for Homepage Container & Section */
 #homepage-container {
     background-color: blue;
-    /* padding-top: 100px; */
+    /* height: 550px; */
+    min-height: calc(82vh - 40px);
 }
 
 .homepage-section {
@@ -58,7 +63,8 @@ nav a {
 
 footer {
     width: 100%;
-    margin-top: 200px;
+    bottom: 0;
+    position: relative;
 
 }
 
@@ -68,6 +74,6 @@ footer {
     font-size: 20px;
     text-align: center;
     padding: 20px 0;
-    height: 20px;
     clear: both;
+    border-top: 4px solid green;
 }
