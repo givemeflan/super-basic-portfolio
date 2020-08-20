@@ -1,17 +1,21 @@
 /* CSS for index.html */
+
 body {
     margin: 0;
     padding: 0;
     position: relative;
 }
 
+#index-header {}
+
 /* Logo & Navbar Area */
 #masthead {
     width: 100%;
-    border-bottom: 2px solid pink;
+    border-bottom: 4px solid pink;
     overflow: auto;
     margin-top: 10px;
     background-color: orange;
+    padding: 10px 0;
 }
 
 #header-container {
@@ -22,22 +26,27 @@ body {
 
 #flan-logo {
     float: left;
-    background-color: blue;
-    font-size: 50px;
+    font-size: 40px;
     text-decoration: none;
+    padding: 10px 0;
+    margin-left: 30px;
 }
 
 nav {
     float: right;
-    margin-right: 40px;
+    margin-right: 60px;
+    margin-top: 10px;
+    word-spacing: 5px;
+
 }
 
 nav a {
-    background-color: red;
     display: inline-block;
     text-decoration: none;
-    font-size: 20px;
+    font-size: 22px;
     padding: 10px;
+    letter-spacing: 1.5px;
+
 }
 
 
@@ -45,7 +54,7 @@ nav a {
 #homepage-container {
     background-color: blue;
     /* height: 550px; */
-    min-height: calc(82vh - 40px);
+    min-height: calc(72vh - 5px);
 }
 
 .homepage-section {
