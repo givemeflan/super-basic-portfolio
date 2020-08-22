@@ -1,12 +1,17 @@
 /* CSS for index.html */
-
+/* General */
 body {
     margin: 0;
     padding: 0;
     position: relative;
+    background: url("../images/texture-2.jpg");
 }
 
 #index-header {}
+
+p {
+    text-align: center;
+}
 
 /* Logo & Navbar Area */
 #masthead {
@@ -14,8 +19,7 @@ body {
     border-bottom: 4px solid pink;
     overflow: auto;
     margin-top: 10px;
-    background-color: orange;
-    padding: 10px 0;
+    padding: 8px 0;
 }
 
 #header-container {
@@ -52,15 +56,15 @@ nav a {
 
 /* CSS for Homepage Container & Section */
 #homepage-container {
-    background-color: blue;
+    /* background-color: blue; */
     /* height: 550px; */
-    min-height: calc(72vh - 5px);
+    min-height: calc(72vh - 3px);
 }
 
 .homepage-section {
     max-width: 700px;
     width: 100%;
-    background-color: red;
+    /* background-color: red; */
     margin: 0 auto;
     margin-top: 50px;
     margin-bottom: 50px;
@@ -73,13 +77,11 @@ nav a {
 footer {
     width: 100%;
     bottom: 0;
-    position: relative;
-
+    position: sticky;
 }
 
 .footer-container {
     width: 100%;
-    background-color: orange;
     font-size: 20px;
     text-align: center;
     padding: 20px 0;
