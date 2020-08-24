@@ -13,3 +13,4 @@ A basic portfolio website using HTML5, CSS3, and float properties! This portfoli
 - Link to Grey Color Palette: https://www.rapidtables.com/web/color/gray-color.html
 - Link to 2nd Grey Color Palette: https://colorhunt.co/palette/163836
 - Link to Google Fonts: https://fonts.google.com/specimen/Montserrat?sidebar.open=true&selection.family=Montserrat:wght@700
+- Link to Google Fonts: https://fonts.google.com/specimen/Lora?sidebar.open=true&selection.family=Lora:wght@500
