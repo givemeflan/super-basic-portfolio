@@ -1,12 +1,11 @@
 /* CSS for index.html */
+
 /* General */
 body {
     margin: 0;
     padding: 0;
     position: relative;
 }
-
-
 
 /* Logo & Navbar Area */
 #masthead {
@@ -37,8 +36,6 @@ nav {
     margin-right: 80px;
     margin-top: 10px;
     word-spacing: 7px;
-    /* background-color: red; */
-
 }
 
 nav a {
@@ -49,10 +46,11 @@ nav a {
     letter-spacing: 1.5px;
     color: #808080;
     font-family: 'Lora', serif;
-
 }
 
-nav a: hover {}
+nav a:hover {
+    color: #Fe7139;
+}
 
 
 /* CSS for Homepage Container & Section */
@@ -71,13 +69,13 @@ nav a: hover {}
     width: 100%;
     margin: 0 auto;
     padding: 30px;
-    padding-top: 90px;
+    padding-top: 85px;
 }
 
 .index-header {
-    line-height: 40%;
+    line-height: 50%;
     font-size: 36px;
-    margin-left: -50px;
+    margin-left: -55px;
     font-family: 'Lora', serif;
 }
 
@@ -98,13 +96,29 @@ nav a: hover {}
     color: #808080;
 }
 
-.button-homepage {
-    margin-top: 70px;
+#button-homepage {
+    margin-top: 60px;
+    margin-left: -15px;
+    width: 118px;
+    padding: 10px;
+    border-color: #Fe7139;
+    background-color: #Fe7139;
+    border-style: solid;
     text-align: center;
-    padding: 15px;
+    border-radius: 2px;
 }
 
+#explore-button {
+    font-size: 16px;
+    text-decoration: none;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 1.5px;
+}
 
+#button-homepage:hover {
+    opacity: 90%;
+}
 
 /* CSS for Footer Section */
 footer {
