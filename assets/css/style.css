@@ -142,4 +142,11 @@ footer {
 
 
 /* CSS FOR CONTACT.HTML */
-
+#contact-container {
+    min-height: calc(75vh - 3px);
+    background-color: #DCDCDC;
+    background-position: left;
+    width: 1200px;
+    margin: 0 auto;
+    margin-bottom: 70px;
+    margin-top: 45px;
