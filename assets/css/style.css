@@ -150,3 +150,26 @@ footer {
     margin: 0 auto;
     margin-bottom: 70px;
     margin-top: 45px;
+}
+
+#contact-section {
+    max-width: 700px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 30px;
+    padding-top: 85px;
+    background-color: red;
+    height: 500px;
+}
+
+#contact-title {
+    font-style: italic;
+    color: #808080;
+    font-size: 36px;
+}
+
+label {
+    display: block;
+    padding: 10px;
+    font-size: 20px;
+}
