@@ -158,7 +158,7 @@ footer {
     margin: 0 auto;
     padding: 30px;
     padding-top: 15px;
-    height: 550px;
+    height: 650px;
     text-align: center;
 }
 
@@ -172,6 +172,7 @@ footer {
 #form-mod {
     /* background-color: blue; */
     margin-top: -10px;
+    margin-bottom: 35px;
 }
 
 #contact-box {
@@ -182,19 +183,18 @@ footer {
 #message-box {
     padding: 10px;
     width: 350px;
-    height: 170px;
+    height: 150px;
 }
 
 label {
     display: block;
-    padding: 5px;
+    padding: 7px;
     font-size: 18px;
     font-family: 'Lora', serif;
+    color: #4b4a46;
 }
 
 #button-contact {
-    /* margin-top: 20px; */
-    /* margin-left: -15px; */
     margin: 0 auto;
     width: 118px;
     padding: 10px;
