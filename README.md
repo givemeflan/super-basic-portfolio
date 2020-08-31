@@ -9,6 +9,8 @@ A basic portfolio website using HTML5, CSS3, and float properties! This portfoli
 ### Homepage
 ![homepage-screen](https://user-images.githubusercontent.com/66345751/91372253-26a18980-e7e1-11ea-84ce-f60d52d071b4.JPG)
 
+### Contact Page
+![contact-page](https://user-images.githubusercontent.com/66345751/91676816-09392c00-eb0f-11ea-8aec-318d680377b7.JPG)
 
 
 ## Resources 
