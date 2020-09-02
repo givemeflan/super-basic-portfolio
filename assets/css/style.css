@@ -238,14 +238,12 @@ label {
 }
 
 .portfolio-head {
-    line-height: 50%;
+    font-family: 'Montserrat', sans-serif;
+    color: #Fe7139;
     font-size: 36px;
-    /* margin-left: -55px; */
-    margin: 0 auto;
-    font-family: 'Lora', serif;
-    background-color: red;
+    font-weight: 500;
 }
 
-#portfolio-header {
+/* #portfolio-header {
     color: #Fe7139;
-}
+} */
