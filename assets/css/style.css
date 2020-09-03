@@ -237,13 +237,9 @@ label {
     text-align: center;
 }
 
-.portfolio-head {
+#portfolio-title {
     font-family: 'Montserrat', sans-serif;
     color: #Fe7139;
     font-size: 36px;
     font-weight: 500;
 }
-
-/* #portfolio-header {
-    color: #Fe7139;
-} */
