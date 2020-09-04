@@ -6,13 +6,10 @@ A basic 3 page portfolio website using HTML5, CSS3, and float properties! This p
 - Contact (contact.html) 
 - Gallery (portfolio.html) 
 
-### Homepage
 ![homepage-screen](https://user-images.githubusercontent.com/66345751/91372253-26a18980-e7e1-11ea-84ce-f60d52d071b4.JPG)
 
-### Portfolio Page
 ![portfolio](https://user-images.githubusercontent.com/66345751/92190506-672b8380-ee2f-11ea-950e-5823d2f2ff87.JPG)
 
-### Contact Page
 ![contact-page](https://user-images.githubusercontent.com/66345751/91676816-09392c00-eb0f-11ea-8aec-318d680377b7.JPG)
 
 
