@@ -228,7 +228,7 @@ label {
 }
 
 #portfolio-section {
-    max-width: 700px;
+    max-width: 800px;
     width: 100%;
     margin: 0 auto;
     padding: 30px;
@@ -242,4 +242,13 @@ label {
     color: #Fe7139;
     font-size: 36px;
     font-weight: 500;
+    border-bottom: 1px solid #808080;
+    padding-bottom: 30px;
+}
+
+.project {
+    position: relative;
+    float: left;
+    width: 246px;
+
 }
