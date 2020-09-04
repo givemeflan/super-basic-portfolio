@@ -1,5 +1,5 @@
 # super-basic-portfolio
-A basic portfolio website using HTML5, CSS3, and float properties! This portfolio is the amalgamation of the two previous repositories: [first-html-exercises](https://github.com/givemeflan/first-html-exercises) & [css-exercises](https://github.com/givemeflan/css-exercises). This portfolio currently does not use Bootstrap, Reset CSS, or is Responsive. For my next exercise, I will contain these frameworks.
+A basic 3 page portfolio website using HTML5, CSS3, and float properties! This portfolio is the amalgamation of the two previous repositories: [first-html-exercises](https://github.com/givemeflan/first-html-exercises) & [css-exercises](https://github.com/givemeflan/css-exercises). This portfolio currently does not use Bootstrap, Reset CSS, or is Responsive. For my next exercise, I will contain these frameworks.
 
 ## The portfolio will consist of 3 pages: 
 - About (index.html)
