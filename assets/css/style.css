@@ -130,7 +130,8 @@ nav a:hover {
 footer {
 	width: 100%;
 	bottom: 0;
-	background-color: #C0C0C0;
+	background-color: #393E46;
+	/* background-color: #C0C0C0; */
 }
 
 .footer-container {
@@ -140,10 +141,6 @@ footer {
 	padding: 7px 0;
 	clear: both;
 	color: #808080;
-}
-
-.footer-sec {
-	line-height: 30%;
 }
 
 
