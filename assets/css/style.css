@@ -1,259 +1,268 @@
 /* CSS FOR INDEX.HTML */
 
 /* General */
+
 body {
-    margin: 0;
-    padding: 0;
-    position: relative;
+	margin: 0;
+	padding: 0;
+	position: relative;
 }
 
+
 /* Logo & Navbar Area */
+
 #masthead {
-    width: 100%;
-    overflow: auto;
-    margin-top: 10px;
-    padding: 8px 0;
+	width: 100%;
+	overflow: auto;
+	margin-top: 10px;
+	padding: 8px 0;
 }
 
 #header-container {
-    width: 90%;
-    clear: both;
-    margin: 0 auto;
+	width: 90%;
+	clear: both;
+	margin: 0 auto;
 }
 
 #flan-logo {
-    float: left;
-    text-decoration: none;
-    padding: 10px 0;
-    margin-left: 30px;
-    font-family: 'Montserrat', sans-serif;
-    color: #Fe7139;
-    font-size: 40px;
+	float: left;
+	text-decoration: none;
+	padding: 10px 0;
+	margin-left: 30px;
+	font-family: 'Montserrat', sans-serif;
+	color: #Fe7139;
+	font-size: 40px;
 }
 
 nav {
-    float: right;
-    margin-right: 80px;
-    margin-top: 10px;
-    word-spacing: 7px;
+	float: right;
+	margin-right: 80px;
+	margin-top: 10px;
+	word-spacing: 7px;
 }
 
 nav a {
-    display: inline-block;
-    text-decoration: none;
-    font-size: 22px;
-    padding: 10px;
-    letter-spacing: 1.5px;
-    color: #808080;
-    font-family: 'Lora', serif;
+	display: inline-block;
+	text-decoration: none;
+	font-size: 22px;
+	padding: 10px;
+	letter-spacing: 1.5px;
+	color: #808080;
+	font-family: 'Lora', serif;
 }
 
 nav a:hover {
-    color: #Fe7139;
+	color: #Fe7139;
 }
 
 
 /* CSS for Homepage Container & Section */
+
 #homepage-container {
-    min-height: calc(75vh - 3px);
-    background: url("../images/texture.jpg");
-    background-position: left;
-    width: 1200px;
-    margin: 0 auto;
-    margin-bottom: 70px;
-    margin-top: 45px;
+	min-height: calc(75vh - 3px);
+	background: url("../images/texture.jpg");
+	background-position: left;
+	width: 1200px;
+	margin: 0 auto;
+	margin-bottom: 70px;
+	margin-top: 45px;
 }
 
 .homepage-section {
-    max-width: 700px;
-    width: 100%;
-    margin: 0 auto;
-    padding: 30px;
-    padding-top: 85px;
+	max-width: 700px;
+	width: 100%;
+	margin: 0 auto;
+	padding: 30px;
+	padding-top: 85px;
 }
 
 .index-header {
-    line-height: 50%;
-    font-size: 36px;
-    margin-left: -55px;
-    font-family: 'Lora', serif;
+	line-height: 50%;
+	font-size: 36px;
+	margin-left: -55px;
+	font-family: 'Lora', serif;
 }
 
 #first-headline {
-    color: #DCDCDC;
+	color: #DCDCDC;
 }
 
 #second-headline {
-    color: #D3D3D3;
+	color: #D3D3D3;
 }
 
 #third-headline {
-    color: #C0C0C0;
+	color: #C0C0C0;
 }
 
 #last-headline {
-    font-style: italic;
-    color: #808080;
+	font-style: italic;
+	color: #808080;
 }
 
 #button-homepage {
-    margin-top: 60px;
-    margin-left: -15px;
-    width: 118px;
-    padding: 10px;
-    border-color: #Fe7139;
-    background-color: #Fe7139;
-    border-style: solid;
-    text-align: center;
-    border-radius: 2px;
+	margin-top: 60px;
+	margin-left: -15px;
+	width: 118px;
+	padding: 10px;
+	border-color: #Fe7139;
+	background-color: #Fe7139;
+	border-style: solid;
+	text-align: center;
+	border-radius: 2px;
 }
 
 #explore-button {
-    font-size: 16px;
-    text-decoration: none;
-    color: white;
-    font-family: 'Montserrat', sans-serif;
-    letter-spacing: 1.5px;
+	font-size: 16px;
+	text-decoration: none;
+	color: white;
+	font-family: 'Montserrat', sans-serif;
+	letter-spacing: 1.5px;
 }
 
 #button-homepage:hover {
-    opacity: 90%;
+	opacity: 90%;
 }
 
+
 /* CSS for Footer Section */
+
 footer {
-    width: 100%;
-    bottom: 0;
-    background-color: #C0C0C0;
+	width: 100%;
+	bottom: 0;
+	background-color: #C0C0C0;
 }
 
 .footer-container {
-    width: 100%;
-    font-size: 16px;
-    text-align: center;
-    padding: 7px 0;
-    clear: both;
-    color: #DCDCDC;
+	width: 100%;
+	font-size: 16px;
+	text-align: center;
+	padding: 7px 0;
+	clear: both;
+	color: #808080;
 }
 
 .footer-sec {
-    line-height: 30%;
+	line-height: 30%;
 }
 
 
 /* CSS FOR CONTACT.HTML */
+
 #contact-container {
-    min-height: calc(75vh - 3px);
-    background-color: #DCDCDC;
-    background-position: left;
-    width: 1200px;
-    margin: 0 auto;
-    margin-bottom: 70px;
-    margin-top: 45px;
+	min-height: calc(75vh - 3px);
+	background-color: #DCDCDC;
+	background-position: left;
+	width: 1200px;
+	margin: 0 auto;
+	margin-bottom: 70px;
+	margin-top: 45px;
 }
 
 #contact-section {
-    max-width: 700px;
-    width: 100%;
-    margin: 0 auto;
-    padding: 30px;
-    padding-top: 15px;
-    height: 650px;
-    text-align: center;
+	max-width: 700px;
+	width: 100%;
+	margin: 0 auto;
+	padding: 30px;
+	padding-top: 15px;
+	height: 650px;
+	text-align: center;
 }
 
 #contact-title {
-    font-family: 'Montserrat', sans-serif;
-    color: #Fe7139;
-    font-size: 36px;
-    font-weight: 500;
+	font-family: 'Montserrat', sans-serif;
+	color: #Fe7139;
+	font-size: 36px;
+	font-weight: 500;
 }
 
 #form-mod {
-    margin-top: -10px;
-    margin-bottom: 35px;
+	margin-top: -10px;
+	margin-bottom: 35px;
 }
 
 #contact-box {
-    padding: 10px;
-    width: 350px;
+	padding: 10px;
+	width: 350px;
 }
 
 #message-box {
-    padding: 10px;
-    width: 350px;
-    height: 150px;
+	padding: 10px;
+	width: 350px;
+	height: 150px;
 }
 
 label {
-    display: block;
-    padding: 7px;
-    font-size: 18px;
-    font-family: 'Lora', serif;
-    color: #4b4a46;
+	display: block;
+	padding: 7px;
+	font-size: 18px;
+	font-family: 'Lora', serif;
+	color: #4b4a46;
 }
 
 #button-contact {
-    margin: 0 auto;
-    width: 118px;
-    padding: 10px;
-    border-color: #Fe7139;
-    background-color: #Fe7139;
-    border-style: solid;
-    text-align: center;
-    border-radius: 2px;
+	margin: 0 auto;
+	width: 118px;
+	padding: 10px;
+	border-color: #Fe7139;
+	background-color: #Fe7139;
+	border-style: solid;
+	text-align: center;
+	border-radius: 2px;
 }
 
 #contact-button {
-    font-size: 16px;
-    text-decoration: none;
-    color: white;
-    font-family: 'Montserrat', sans-serif;
-    letter-spacing: 1.5px;
+	font-size: 16px;
+	text-decoration: none;
+	color: white;
+	font-family: 'Montserrat', sans-serif;
+	letter-spacing: 1.5px;
 }
 
 #button-contact:hover {
-    opacity: 90%;
+	opacity: 90%;
 }
 
+
 /* CSS FOR PORTFOLIO.HTML */
+
 #portfolio-container {
-    min-height: calc(75vh - 3px);
-    background-color: #DCDCDC;
-    background-position: left;
-    width: 1200px;
-    margin: 0 auto;
-    margin-bottom: 70px;
-    margin-top: 45px;
+	min-height: calc(75vh - 3px);
+	background-color: #DCDCDC;
+	background-position: left;
+	width: 1200px;
+	margin: 0 auto;
+	margin-bottom: 70px;
+	margin-top: 45px;
 }
 
 #portfolio-section {
-    max-width: 800px;
-    width: 100%;
-    margin: 0 auto;
-    padding: 30px;
-    padding-top: 15px;
-    height: 730px;
-    text-align: center;
+	max-width: 800px;
+	width: 100%;
+	margin: 0 auto;
+	padding: 30px;
+	padding-top: 15px;
+	height: 730px;
+	text-align: center;
 }
 
 #portfolio-title {
-    font-family: 'Montserrat', sans-serif;
-    color: #Fe7139;
-    font-size: 36px;
-    font-weight: 500;
-    border-bottom: 1.25px solid #808080;
-    padding-bottom: 30px;
+	font-family: 'Montserrat', sans-serif;
+	color: #Fe7139;
+	font-size: 36px;
+	font-weight: 500;
+	border-bottom: 1.25px solid #808080;
+	padding-bottom: 30px;
 }
 
 .project {
-    width: 200px;
-    display: inline-block;
-    margin: 30px 0 25px;
+	width: 200px;
+	display: inline-block;
+	margin: 30px 0 25px;
 }
 
 h3 {
-    font-family: 'Lora', serif;
-    color: #808080;
-    font-weight: 450;
+	font-family: 'Lora', serif;
+	color: #808080;
+	font-weight: 450;
 }
